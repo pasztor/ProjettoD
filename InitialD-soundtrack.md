@@ -1,15 +1,31 @@
 # Initial D Soundtracks
 
 NB.: This list is based on the episodes end title listing. I tried to note them down as it was written there, even if that had typo. It had here and there.
+NB2: I've started to collect a list of links to the given songs. Wherever you see an identifier for example `Id_Q5eruRbA` here than the link you shell follow in your browser is https://youtu.be/Id_Q5eruRbA
 
 * S1
   * Opening theme S1E01 - S1E19: Move (avex tune) - Around the world
+    * ref: 67K6oXHyf_Q
+    * Dave Rodgers remix: n71tuzrvhOg
   * Opening theme S1E20 - S1E26: Move (avex tune) - Break in 2 the nite
+    * ref: 7OkzGLgyyCw
+    * Dave Rodgers remix: ygp6kNMgegk
   * Closing theme S1E01 - S1E14: Move (avex tune) - Rage your dream
+    * ref: KoFSQeOAYz4
   * Closing theme S1E15 - S1E26: Galla (cutting edge) - Kiseki no hana
+    * eng lyric subtitle ver: E1MI86mQJ_o
+    * ost: baG21o7L3Zc
   * S1E01
     * Edo Boys - No One Sleep in Tokyo
+      * D7: rPrwEADXKEo
+      * ref1: kvBl9egB-R8
+      * ref2: Wu5TDEpAqwQ
+      * ref3: TQz5gZkCEJI
     * Dave Rodgers - Space Boy
+      * ref1: nvUTNX0FDPA
+      * ref2: h5W0Tn-X73I
+      * ref3: TCoZoL2RFOU
+      * ref4: IxVgQi4kweo
   * S1E02
     * Jilly - Be My Babe
     * Leslie Parrish - Remember Me
@@ -96,6 +112,7 @@ NB.: This list is based on the episodes end title listing. I tried to note them 
 * S2
   * Opening theme S2E01 - S2E13: Move (avex tune) - Blazin Beat
   * Closing theme S2E01 - S2E13: Galla (cutting edge) - Kimi Ga Iru - You are here
+    * ref: eSQSvTOfpWY
   * S2E01:
     * Mega NRG Man - Burning Desire
   * S2E02:
