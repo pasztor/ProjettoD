@@ -1,31 +1,17 @@
 # Initial D Soundtracks
 
+## Episode listings
+
 NB.: This list is based on the episodes end title listing. I tried to note them down as it was written there, even if that had typo. It had here and there.
-NB2: I've started to collect a list of links to the given songs. Wherever you see an identifier for example `Id_Q5eruRbA` here than the link you shell follow in your browser is https://youtu.be/Id_Q5eruRbA
 
 * S1
   * Opening theme S1E01 - S1E19: Move (avex tune) - Around the world
-    * ref: 67K6oXHyf_Q
-    * Dave Rodgers remix: n71tuzrvhOg
   * Opening theme S1E20 - S1E26: Move (avex tune) - Break in 2 the nite
-    * ref: 7OkzGLgyyCw
-    * Dave Rodgers remix: ygp6kNMgegk
   * Closing theme S1E01 - S1E14: Move (avex tune) - Rage your dream
-    * ref: KoFSQeOAYz4
   * Closing theme S1E15 - S1E26: Galla (cutting edge) - Kiseki no hana
-    * eng lyric subtitle ver: E1MI86mQJ_o
-    * ost: baG21o7L3Zc
   * S1E01
     * Edo Boys - No One Sleep in Tokyo
-      * D7: rPrwEADXKEo
-      * ref1: kvBl9egB-R8
-      * ref2: Wu5TDEpAqwQ
-      * ref3: TQz5gZkCEJI
     * Dave Rodgers - Space Boy
-      * ref1: nvUTNX0FDPA
-      * ref2: h5W0Tn-X73I
-      * ref3: TCoZoL2RFOU
-      * ref4: IxVgQi4kweo
   * S1E02
     * Jilly - Be My Babe
     * Leslie Parrish - Remember Me
@@ -112,7 +98,6 @@ NB2: I've started to collect a list of links to the given songs. Wherever you se
 * S2
   * Opening theme S2E01 - S2E13: Move (avex tune) - Blazin Beat
   * Closing theme S2E01 - S2E13: Galla (cutting edge) - Kimi Ga Iru - You are here
-    * ref: eSQSvTOfpWY
   * S2E01:
     * Mega NRG Man - Burning Desire
   * S2E02:
@@ -349,3 +334,85 @@ NB2: I've started to collect a list of links to the given songs. Wherever you se
     * Joe Banana - Wild Boy Bad Love
     * Ace - Adrenaline
     * Move - Days
+
+##Soundtrack links:
+
+NB2: I've started to collect a list of links to the given songs. Wherever you see an identifier for example `Id_Q5eruRbA` here than the link you shell follow in your browser is https://youtu.be/Id_Q5eruRbA
+
+* Dave Rodgers
+  * Space Boy
+    * ref1: nvUTNX0FDPA
+    * ref2: h5W0Tn-X73I
+    * ref3: TCoZoL2RFOU
+    * ref4: IxVgQi4kweo
+* Delta Queens
+  * Dance Around The World
+    * ref1: f2V1mOtlO7I
+    * ref2: OO3mNEtW6Yc
+    * ref3: zpXutqEFj0o
+    * ref4: 42CBodIHKLE
+* Edo Boys
+  * No One Sleep In Tokyo
+    * D7: rPrwEADXKEo
+    * ref1: kvBl9egB-R8
+    * ref2: Wu5TDEpAqwQ
+    * ref3: TQz5gZkCEJI
+* Galla
+  * Kimi Ga Iru
+    * ref: eSQSvTOfpWY
+  * Kiseki No Hana
+    * eng lyric subtitle ver: E1MI86mQJ_o
+    * ost: baG21o7L3Zc
+* Jilly
+  * Be My Babe
+    * ref1: s5tmMVQI5Mg
+    * ref2: zJFEIYXWMjQ
+* Leslie Parrish
+  * Remember Me
+    * ref1: 2aAKHtPjHxQ
+    * ref2: ueYz7qoVCnQ
+    * ref3: fC2U9EvzDNg
+* Lou Grant
+  * Don't Stop The Music
+    * ref1: -OsCLjzRQs4
+    * ref2: KFaOi6ViVTY
+    * ref3: sFODclG8mBY
+    * ref4: wV49O__n2wU
+* Man Power
+  * Spark In The Dark
+    * ref1: Z9BSESAAoW0
+    * ref2: obWrjg-M0XE
+* Max Cover I
+  * Running In The 90s
+    * ref1: NNaJxMutEIE
+    * ref2: gXNrtH1-ddo
+    * ref3: SQqZ8PnhBEQ
+* Mega NRG Man
+  * Back On The Rocks
+    * ref1: y88M1eaM538
+    * ref2: 2SM_QOFUPFc
+  * Get Me Power
+    * ref1: -tRNXCZO9Xg
+    * ref2: M_UfPjA85qk
+    * ref3: rcWN7P52uXM
+* Nathalie
+  * Heartbeat
+     * ref: yESFRV-FKuI
+     * instrumental: kNnIO6Y4NTo
+     * djshu: xNPfux_nY-Y
+     * senc: TNzN0ed3LlY
+     * bell: 14jwbdkq1uA
+* Tommy K
+  * Break The Night
+    * ref1: XufKW-bRrRc
+    * ref2: ruKHq5lcguE
+    * ref3: g77CGERlCxM
+* m.o.v.e.
+  * Around The World
+    * ref: 67K6oXHyf_Q
+    * Dave Rodgers remix: n71tuzrvhOg
+  * Break In2 The Nite
+    * ref: 7OkzGLgyyCw
+    * Dave Rodgers remix: ygp6kNMgegk
+  * Rage Your Dream
+    * ref: KoFSQeOAYz4
