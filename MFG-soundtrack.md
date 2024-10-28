@@ -13,6 +13,7 @@
   * S1E03
     * Dejo - Wilder Faster Louder
   * S1E04
+    * Bon - Pull The Trigger
     * Jay Lehr - Hi Love
   * S1E05
     * Dejo & Bratt Sinclaire - In The Eyes of a Tiger
@@ -51,6 +52,7 @@
     * Fastway - Run
   * S2E04
     * Dusty - Go Wild
+    * Akio Dobashi - No Confusion
     * Go 2 - Not For Sale
   * S2E05
   * S2E06
