@@ -334,6 +334,33 @@ NB.: This list is based on the episodes end title listing. I tried to note them 
     * Joe Banana - Wild Boy Bad Love
     * Ace - Adrenaline
     * Move - Days
+* BS3
+  * Opening theme: Neo - Eurohero
+  * Wild - Hit Me
+  * Jungle Bill - Laser Gun
+  * Eurobeat Girls - Saving The World
+  * Mr. M - Away
+  * Robert Patton - Milennium
+  * Mickey B. - Victim of You
+  * P. Stone - Smoke on Fire
+  * Powerful T. - Back To The Rising Sun
+  * Fastway - Big Brother
+  * Vicky Vale - The Game of Love
+  * Sarah - Daddy Boy
+  * Denise - Eternity
+  * The Wonder Gitls - Prison of Love
+  * Spiders From Mars - Ray Light
+  * Franz Tornado - How Yeah
+  * Lou Lou Marina - Take me up and Higher
+  * DJ Force - Music in You
+  * Paul Harris & Cherry - Maya
+  * Elena Feretti - Easy Game
+  * Annie - Powernight
+  * Mike Danger - Lost in Time
+  * Anika - Come Back To Me
+  * Fastway - Young And Wild
+  * Neo - Eurohero
+  * Dave Rodgers - Take Me Higher 2020
 
 ##Soundtrack links:
 
