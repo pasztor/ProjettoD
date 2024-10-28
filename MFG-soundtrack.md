@@ -11,9 +11,9 @@
     * Mega NRG Man - Red Light And Sex
     * Mega NRG Man - Break Out Fire
   * S1E03
-    * A - Wilder Faster Louder
+    * Dejo - Wilder Faster Louder
   * S1E04
-    * Jay Lehr? - Hi Love
+    * Jay Lehr - Hi Love
   * S1E05
     * Dejo & Bratt Sinclaire - In The Eyes of a Tiger
   * S1E06
