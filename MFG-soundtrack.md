@@ -44,9 +44,9 @@
     * Pamsy $ Ace - 2Love, 4Love
     * David Dima - Spirit of the Night
   * S2E02
-    * Fastway - Rock Betin' Wild
+    * Fastway - Rock Beatin' Wild
   * S2E03
-    * Fastway - Rock Betin' Wild
+    * Fastway - Rock Beatin' Wild
     * Hotblade - Power Two
     * Fastway - Run
   * S2E04
