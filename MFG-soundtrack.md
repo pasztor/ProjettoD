@@ -55,6 +55,8 @@
     * Akio Dobashi - No Confusion
     * Go 2 - Not For Sale
   * S2E05
+    * J-Start - The Jungle is on Fire
+    * Speedman - Speed Lover
   * S2E06
   * S2E07
   * S2E08
