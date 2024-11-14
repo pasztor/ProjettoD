@@ -59,7 +59,7 @@
     * Speedman - Speed Lover
   * S2E06
     * The Snake - Speed of Light
-    * ACE - Adrenaline
+    * Manuel - Adrenaline
   * S2E07
   * S2E08
   * S2E09
