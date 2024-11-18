@@ -61,6 +61,9 @@
     * The Snake - Speed of Light
     * Manuel - Adrenaline
   * S2E07
+    * Dave Rodgers - A world of Joy
+    * Melissa White & ACE - Rainin' in my Heart
+    * ACE - In the Fire of Victory
   * S2E08
   * S2E09
   * S2E10
