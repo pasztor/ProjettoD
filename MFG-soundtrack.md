@@ -65,6 +65,9 @@
     * Melissa White & ACE - Rainin' in my Heart
     * ACE - In the Fire of Victory
   * S2E08
+    * Fastway - Hyper Super Power
+    * ACE - Brand New World
+    * Ace Warrior - Baby, I'm on fire
   * S2E09
   * S2E10
   * S2E11
